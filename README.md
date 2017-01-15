@@ -1,2 +1,2 @@
 # source-list
-Ubuntu Source List
+Linux Distribution Source List
