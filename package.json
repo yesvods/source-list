@@ -1,0 +1,14 @@
+{
+  "name": "source-list",
+  "version": "0.1.0",
+  "description": "Ubuntu Source List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "source-list"
+  ],
+  "author": "Jogis",
+  "license": "MIT"
+}
